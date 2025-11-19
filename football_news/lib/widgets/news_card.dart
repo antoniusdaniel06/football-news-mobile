@@ -31,7 +31,7 @@ class ItemCard extends StatelessWidget {
               ),
             );
           }
-          else if (item.name == "See Football News") {
+          else if (item.name == "See Football Products") {
     Navigator.push(
         context,
         MaterialPageRoute(
